@@ -422,7 +422,7 @@ class SilktideCookieBanner {
 
     const modalContent = `
       <header>
-        <h3>${preferencesTitle}</h3>                    
+        <p>${preferencesTitle}</p>                    
         ${closeModalButton}
       </header>
       ${preferencesDescription}
